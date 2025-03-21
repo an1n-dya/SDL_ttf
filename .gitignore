@@ -58,3 +58,6 @@ Release
 
 # for Clangd
 .cache
+
+# Cinix-specific
+*.make
